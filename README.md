@@ -12,8 +12,8 @@ Knowledge Fusion of Large Language Models
 
 <h4> |<a href="https://arxiv.org/abs/2401.10491"> 📑 FuseLLM Paper @ICLR2024 </a> |
 <a href="https://arxiv.org/abs/2402.16107"> 📑 FuseChat Tech Report </a> |
-<a href="https://huggingface.co/FuseAI"> 🤗 Huggingface Repo </a> |
-<a href="https://github.com/fanqiwan/FuseLLM"> 🐱 Github Repo </a> |
+<a href="https://huggingface.co/FuseAI"> 🤗 Hugging Face Repo </a> |
+<a href="https://github.com/fanqiwan/FuseLLM"> 🐱 GitHub Repo </a> |
 </h4>
 
 <p align="center">
